@@ -1,0 +1,2 @@
+class GroupEntity < ApplicationRecord
+end

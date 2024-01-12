@@ -6,7 +6,7 @@
 
 # Ignore bundler config.
 /.bundle
-
+node_modules
 # Ignore all environment files (except templates).
 /.env*
 !/.env*.erb
@@ -75,7 +75,6 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
 jspm_packages/
 
 # Snowpack dependency directory (https://snowpack.dev/)

@@ -1,10 +1,12 @@
+# frozen_string_literal: true
+
 Rails.application.routes.draw do
   devise_for :users
 
   resources :groups
   resources :entities
 
-  get "splashes/index"
+  get 'splashes/index'
   unauthenticated do
     root 'splashes#index'
   end

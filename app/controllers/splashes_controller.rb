@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class SplashesController < ApplicationController
   skip_before_action :authenticate_user!
 

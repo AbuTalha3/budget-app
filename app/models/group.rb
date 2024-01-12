@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 class Group < ApplicationRecord
   has_many :group_entities, dependent: :destroy
   has_many :entities, through: :group_entities

@@ -8,3 +8,4 @@ class User < ApplicationRecord
   has_many :entities, class_name: 'Entitiy', dependent: :destroy, foreign_key: 'user_id'
   validates :name, presence: true
 end
+

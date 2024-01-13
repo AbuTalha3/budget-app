@@ -45,7 +45,7 @@
 
 <!-- Video Demo Link -->
 
-[Video link](https://www.loom.com/share/f63ef30269e24f26bc716c7543d79644?sid=8c66a5fc-879f-4f20-af07-3af1fb7fc799)
+[Video link](https://www.loom.com/share/44db4ea9ac314739b420f605ae223ecb) 
 
 <!-- Features -->
 

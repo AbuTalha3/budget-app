@@ -5,6 +5,7 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+    - [Live Link](#live-link)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -36,6 +37,16 @@
   </ul>
 </details>
 
+<!-- Links -->
+
+### Live Link <a name="key-features"></a>
+
+Live link will be added later
+
+<!-- Video Demo Link -->
+
+Video link will be added later
+
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -44,15 +55,6 @@
 - *Devise, Authentication, Authorization and Access Management*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Live Link -->
-
-## Live Link
-
-Live link will be added later
-
-<!-- Video Demo Link -->
-
 
 <!-- GETTING STARTED -->
 

@@ -39,7 +39,7 @@
 
 <!-- Links -->
 
-### Live Link <a name="key-features"></a>
+### Live Link <a name="live-link"></a>
 
 [Live link](https://bofulo-budget-app.onrender.com/)
 

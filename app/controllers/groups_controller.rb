@@ -7,7 +7,7 @@ class GroupsController < ApplicationController
   end
 
   def show
-    @entities = Entity.all.where(group_id: @group.id).order(created_at: :desc)    
+    @entities = Entity.all.where(group_id: @group.id).order(created_at: :desc)
   end
 
   def new

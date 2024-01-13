@@ -41,7 +41,7 @@
 
 ### Live Link <a name="key-features"></a>
 
-Live link will be added later
+[Live link](https://bofulo-budget-app.onrender.com/)
 
 <!-- Video Demo Link -->
 

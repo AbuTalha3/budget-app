@@ -206,6 +206,7 @@ a {
 
 .toolbar2 > * {
   margin-left: 30px;
+  font-weight: bold;
 }
 
 .back_btn > img {

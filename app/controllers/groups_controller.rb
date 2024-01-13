@@ -3,11 +3,11 @@ class GroupsController < ApplicationController
   before_action :authenticate_user!
 
   def index
-    @groups = Group.where(user_id: current_user.id)
+    @groups = Group.where(user_id: current_user.id).order(created_at: :desc)
   end
 
   def show
-    @entities = Entity.all.where(group_id: @group.id)
+    @entities = Entity.all.where(group_id: @group.id).order(created_at: :desc)    
   end
 
   def new

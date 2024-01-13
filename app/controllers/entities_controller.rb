@@ -1,7 +1,7 @@
 class EntitiesController < ApplicationController
   def new
     @entity = Entity.new
-    @groups = Group.all.where(user_id: current_user.id)
+    @groups = Group.all.where(user_id: current_user.id).order(created_at: :desc)
   end
 
   def create

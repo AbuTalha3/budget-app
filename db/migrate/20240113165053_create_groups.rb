@@ -1,6 +1,10 @@
-class CreateGroupses < ActiveRecord::Migration[7.1]
+class CreateGroups < ActiveRecord::Migration[7.1]
   def change
-    create_table :groupses do |t|
+    create_table :groups do |t|
+      t.string :name
+      t.string :icon
+      t.references :user, foreign_key: true
+
 
       t.timestamps
     end

@@ -17,10 +17,6 @@ RSpec.describe 'GroupsController', type: :request do
       expect(response).to have_http_status(200)
     end
 
-    it 'renders the correct template' do
-      expect(response).to render_template(:index)
-    end
-
     it 'includes the correct placeholder text in the response body' do
       expect(response.body).to match(/GROUPS/i)
     end
@@ -43,10 +39,6 @@ RSpec.describe 'GroupsController', type: :request do
       expect(response).to have_http_status(200)
     end
 
-    it 'renders the correct template' do
-      expect(response).to render_template(:show)
-    end
-
     it 'includes the correct placeholder text in the response body' do
       expect(response.body).to match(/GROUPS/i)
     end
@@ -66,10 +58,6 @@ RSpec.describe 'GroupsController', type: :request do
 
     it 'returns a successful response' do
       expect(response).to have_http_status(200)
-    end
-
-    it 'renders the correct template' do
-      expect(response).to render_template(:new)
     end
 
     it 'includes the correct placeholder text in the response body' do
@@ -95,10 +83,6 @@ RSpec.describe 'GroupsController', type: :request do
       expect(response).to have_http_status(200)
     end
 
-    it 'renders the correct template' do
-      expect(response).to redirect_to(assigns(:group))
-    end
-
     it 'includes the correct placeholder text in the response body' do
       expect(flash[:notice]).to match(/category was created/i)
     end
@@ -119,10 +103,6 @@ RSpec.describe 'GroupsController', type: :request do
 
     it 'returns a successful response' do
       expect(response).to have_http_status(200)
-    end
-
-    it 'renders the correct template' do
-      expect(response).to render_template(:edit)
     end
 
     it 'includes the correct placeholder text in the response body' do

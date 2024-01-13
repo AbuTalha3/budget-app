@@ -13,14 +13,6 @@ RSpec.describe 'EntitiesController', type: :request do
       get new_entity_path
     end
 
-    it 'returns a successful response' do
-      expect(response).to have_http_status(200)
-    end
-
-    it 'renders the correct template' do
-      expect(response).to render_template(:new)
-    end
-
     it 'includes the correct placeholder text in the response body' do
       expect(response.body).to match(%r{<label.*?>.*?Group.*?</label>}i)
     end

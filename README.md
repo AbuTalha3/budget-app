@@ -45,7 +45,7 @@ Live link will be added later
 
 <!-- Video Demo Link -->
 
-Video link will be added later
+[Video link](https://www.loom.com/share/f63ef30269e24f26bc716c7543d79644?sid=8c66a5fc-879f-4f20-af07-3af1fb7fc799)
 
 <!-- Features -->
 

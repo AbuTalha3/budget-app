@@ -22,14 +22,6 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Budget App] <a name="about-project"></a>
-
-*[Budget App]* is an application that allows users to create their routine budgets and expend accordingly. It has different catagories like Grocerries, Travel or Gaming Zones or as per choice of user .
-
-## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
-
 <details>
   <summary>Ruby on Rails</summary>
   <ul>

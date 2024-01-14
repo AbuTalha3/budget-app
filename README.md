@@ -28,7 +28,7 @@
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-*[Budget App]* is an application that allows users to create their routine budgets and expend accordingly .
+*[Budget App]* is an application that allows users to create their routine budgets and expand accordingly.
 
 ## 🛠 Built With <a name="built-with"></a>
 

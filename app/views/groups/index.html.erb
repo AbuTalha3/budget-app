@@ -14,7 +14,11 @@
 <section class="main-container">
   <div id="groups">
     <% @groups.each do |group| %>
-      <%= render group %>
+      <%= link_to group_path(group) do %>
+        <div class="group-container">
+          <%= render group %>
+        </div>
+      <% end %>
     <% end %>
   </div>
   <div class="splash-buttons">

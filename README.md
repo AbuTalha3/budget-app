@@ -5,6 +5,7 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+    - [Live Link](#live-link)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -28,11 +29,6 @@
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-*[Budget App]* is an application that allows users to create their routine budgets and expand accordingly.
-
-## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
 
 <details>
   <summary>Ruby on Rails</summary>
@@ -40,6 +36,16 @@
     <li>Ruby on Rails</li>
   </ul>
 </details>
+
+<!-- Links -->
+
+### Live Link <a name="live-link"></a>
+
+[Live link](https://bofulo-budget-app.onrender.com/)
+
+<!-- Video Demo Link -->
+
+[Video link](https://www.loom.com/share/44db4ea9ac314739b420f605ae223ecb) 
 
 <!-- Features -->
 
@@ -49,15 +55,6 @@
 - *Devise, Authentication, Authorization and Access Management*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Live Link -->
-
-## Live Link
-
-Live link will be added later
-
-<!-- Video Demo Link -->
-
 
 <!-- GETTING STARTED -->
 

@@ -65,6 +65,8 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 To run this project you need:
+- VS Code
+- PostgreSQL (If you don't have PostgreSQL on your machine you can download PostgreSQL [here](https://www.postgresql.org/download/) )
 
 ### Setup
 

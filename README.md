@@ -24,7 +24,7 @@
 
 # 📖 [Budget App] <a name="about-project"></a>
 
-*[Budget App]* is an application that allows users to create their routine budgets and expand accordingly. It has different categories like groceries, Travel, or Gaming Zones or as per the choice of the user.
+**Budget App** is an application that allows users to create their routine budgets and expand accordingly. It has different categories like groceries, Travel, or Gaming Zones or as per the choice of the user.
 
 ## 🛠 Built With <a name="built-with"></a>
 

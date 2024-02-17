@@ -135,7 +135,7 @@ If you like this project you can give it a ⭐.
 
 I would like to give credit to [Gregoire Vella on Behance](https://www.behance.net/gregoirevella).
 
-I would like to thank Microverse for giving me oppertunity to make this project.
+I would like to thank Microverse for giving me the opportunity to do this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
